@@ -1,0 +1,3 @@
+DEFINES+=APP_CONF_H=\"secure-join-conf.h\"
+
+secure-join_src = secure-join.c
