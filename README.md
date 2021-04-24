@@ -70,3 +70,4 @@ Example project-conf.h Eklenmesi Gerekenler
 /* Enable client-side support for COAP observe */
 #define COAP_OBSERVE_CLIENT 1
 #endif /* SECURE_JOIN_ENABLED */# contiki-os-coap-security
+# contiki-os-coap-security
